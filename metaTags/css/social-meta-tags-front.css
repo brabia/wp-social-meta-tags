@@ -1,0 +1,58 @@
+.social-meta-tags-container{
+	margin-top: 5px;
+	text-align: center;
+}
+.social-meta-tags-container .social-meta-tags-social{
+	color: #fff;
+    padding: 3px 5px 3px 10px;
+    width: 155px;
+	display: inline-block;
+}
+.social-meta-tags-container .social-meta-tags-social a{
+	color: #fff;
+    text-decoration: none;
+    border: 0;
+    font-size: 14px;
+	display: inline-block;
+    width: 105px;
+}
+.social-meta-tags-container .social-meta-tags-social span{
+	width: 24px;
+    height: 24px;
+    display: inline-block;
+    float: right;
+    margin-top: 3px;
+    margin-right: 5px;
+	-webkit-transition: -webkit-transform .8s ease-in-out;
+    -ms-transition: -ms-transform .8s ease-in-out;
+    transition: transform .8s ease-in-out;
+}
+.social-meta-tags-container .social-meta-tags-social:hover span{
+	transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -webkit-transform:rotate(360deg);
+}
+.social-meta-tags-container .social-meta-tags-twitter{
+	background: #55ACEE;
+}
+.social-meta-tags-container .social-meta-tags-facebook{
+	background: #3B5998;
+}
+.social-meta-tags-container .social-meta-tags-linkedin{
+	background: #0076B4;
+}
+.social-meta-tags-container .social-meta-tags-google{
+	background: #D95032;
+}
+.social-meta-tags-container .social-meta-tags-facebook span{
+	background: #3B5998 url(../images/facebook.png) no-repeat center;
+}
+.social-meta-tags-container .social-meta-tags-twitter span{
+	background: #55ACEE url(../images/twitter.png) no-repeat center;
+}
+.social-meta-tags-container .social-meta-tags-linkedin span{
+	background: #0076B4 url(../images/linkedin.png) no-repeat center;
+}
+.social-meta-tags-container .social-meta-tags-google span{
+	background: #D95032 url(../images/google.png) no-repeat center;
+}

@@ -1,0 +1,139 @@
+#social-meta-tags{
+	background: url(../images/32.png) no-repeat scroll left center transparent;
+	display: inline-block;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    margin-top: 7px;
+    width: 32px;
+}
+
+#social-meta-tags_container{
+    background:#f8fafa;
+}
+#social-meta-tags_container .accordion-header{
+	display: block;
+    padding: 10px;
+    font-size: 14px;
+    text-align: left;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    border-radius: 3px 3px 0 0;
+	margin-top: 5px;
+}
+
+.social-meta-tags_wrap .social-meta-tags_container{
+	margin-top: 5px;
+}
+.social-meta-tags_wrap .postbox{
+    border-radius: 3px 3px 0 0;
+}
+.social-meta-tags_wrap h3{
+    border: 0;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+#social-meta-tags_container .accordion-header i{
+	float: right;
+}
+#social-meta-tags_container .accordion-notification-success{
+	background: #4AD5C0;
+    border: 1px solid #13B7A8;
+	border-radius: 3px;
+	color: #fff;
+	line-height: 20px;
+}
+#social-meta-tags_container .accordion-notification{
+	border-radius: 3px;
+	line-height: 20px;
+}
+#social-meta-tags_container .accordion-notification-success{
+	background: #4AD5C0;
+    border: 1px solid #13B7A8;
+	color: #fff;
+}
+#social-meta-tags_container .accordion-notification-error{
+	background: #FF6F58;
+    border: 1px solid #E84D3C;
+	color: #fff;
+}
+#social-meta-tags_container .social-meta-tags_service_content{
+}
+#social-meta-tags_container .social-meta-tags_service_content_active{
+    padding: 11px 15px;
+    border: 1px solid #ddd;
+    border-top: 0px solid #ffba00;
+    border-radius: 0  0 3px 3px;
+	display: block;
+}
+#social-meta-tags_container .social-meta-tags_input{
+    border: 1px solid #ccc;
+    box-shadow: none;
+    width: 100%;
+    display: block;
+}
+#social-meta-tags_container .social-meta-tags_input_25{
+    width: 25%;
+    display: inline-block;
+}
+#social-meta-tags_container .social-meta-tags_register{
+	text-decoration: none;
+    text-align: right;
+    font-weight: bold;
+}
+
+#social-meta-tags_container .social-meta-tags_textarea{
+    border: 1px solid #ccc;
+    box-shadow: none;
+    width: 100%;
+    display: block;
+    min-height: 250px;
+}
+#social-meta-tags_container .social-meta-tags_Opt{
+	border: 1px dashed #ddd;
+    padding: 3px;
+    margin-bottom: 10px;
+}
+#social-meta-tags_container .social-meta-tags_radio{
+    border: 1px solid #ccc;
+    box-shadow: none;
+    display: inline-block;
+}
+#social-meta-tags_container .social-meta-tags_submit{
+	box-shadow: none;
+    cursor: pointer;
+    display: inline-block;
+    background: #e8643e;
+    border: 0;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 3px;
+    min-width: 80px;
+	float: right;
+}
+#social-meta-tags_container .description{
+	font-size: 13px;
+    font-style: italic;
+	margin: 2px 0 5px;
+    color: #666;
+    width: 75%;
+}
+.social-meta-tags-response-notice{
+	display:none;
+}
+.clear{
+}
+
+#side-sortables .postbox {
+	clear: both;
+}
+#social-meta-tags-meta_box th, #social-meta-tags-meta_box td{
+	padding: 0;
+}
+#social-meta-tags-meta_box .meta_box-regular-text{
+	border: 1px solid #ccc !important;
+    width: 100%;
+    box-shadow: none !important;
+    background: #F0F0F0;
+}
